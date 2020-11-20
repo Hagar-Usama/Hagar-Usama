@@ -2,6 +2,11 @@
 
 ## Have a nice day!  🙏
 
+
+> Got a minute?
+
+ **Have a look at my work 😄**
+
 <img src="images/github1.png">
 <img src="images/github2.png">
 <img src="images/github4.png">
