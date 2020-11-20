@@ -7,9 +7,9 @@
 
  **Have a look at my work 😄**
 
-<img src="images/github1.png">
-<img src="images/github2.png">
-<img src="images/github4.png">
+<img src="images/github8.png">
+<img src="images/github7.png">
+<img src="images/github6.png">
 
 
 <!--
