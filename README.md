@@ -2,10 +2,27 @@
 
 > Have a nice day!  🙏
 
+---
+
+## Overview 
+
 [![Hagar's github stats](https://github-readme-stats.vercel.app/api?username=hagar-usama&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hagar-usama&row=1&column=6&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar-usama&hide=html&langs_count=20&layout=compact&theme=nord">
+
+
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hagar-usama&theme=nord_dark) 
+-->
+
+---
+
+## More Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hagar-usama&theme=nord_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hagar-usama&theme=nord_dark) 
@@ -13,9 +30,17 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hagar-usama&theme=nord_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hagar-usama&theme=nord_dark) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hagar-usama&row=1&column=6&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Hagar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=hagar-usama&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 <!--
+
+<pre>
+
+</pre>
+
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true">
 >
 
