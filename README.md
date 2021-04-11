@@ -13,7 +13,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar-usama&hide=html&langs_count=20&layout=compact&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar-usama&hide=Jupyter%20Notebook,makefile,html&langs_count=20&layout=compact&theme=nord">
 
 
 <!--
