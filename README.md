@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Oh My Compiler (phase 1)](https://github.com/Hagar-Usama/Lexical)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
