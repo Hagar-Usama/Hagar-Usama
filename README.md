@@ -17,7 +17,6 @@ Hi 👋, It's Hagar Usama <هاجر>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=50, width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height=50, width=/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=50, width=40/>
 
 
-----
 ![hagar-usama](https://github-readme-stats.vercel.app/api/top-langs?username=hagar-usama&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=true&hide=jupyter%20notebook,%20html,%20makefile) ![hagar-usama](https://github-readme-stats.vercel.app/api?username=hagar-usama&show_icons=true&locale=en)
 
 
