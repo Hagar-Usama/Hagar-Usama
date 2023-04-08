@@ -31,9 +31,7 @@ Hi 👋, It's Hagar Usama <هاجر>
 
 
 ----
-![hagar-usama](https://github-readme-stats.vercel.app/api/top-langs?username=hagar-usama&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=true&hide=jupyter%20notebook,%20html,%20makefile)
-
- ![hagar-usama](https://github-readme-stats.vercel.app/api?username=hagar-usama&show_icons=true&locale=en)
+![hagar-usama](https://github-readme-stats.vercel.app/api/top-langs?username=hagar-usama&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=true&hide=jupyter%20notebook,%20html,%20makefile) ![hagar-usama](https://github-readme-stats.vercel.app/api?username=hagar-usama&show_icons=true&locale=en)
 
 
             
